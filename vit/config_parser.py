@@ -47,6 +47,7 @@ DEFAULTS = {
         'abort_backspace': False,
         'focus_on_add': False,
         'pid_dir': '',
+        'auto_reload': True,
     },
     'report': {
         'default_report': 'next',
